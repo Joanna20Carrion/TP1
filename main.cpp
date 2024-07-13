@@ -1,5 +1,7 @@
 #include "mbed.h"
 
+// Comentario
+
 // Definiciones de pines de sensores y leds
 #define DHT22_PIN A0
 #define SOIL_MOISTURE_PIN D2

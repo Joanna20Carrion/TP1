@@ -1,6 +1,7 @@
 # Trabajo Práctico N°1: Sistema de Monitoreo de Temperatura y Humedad para Plantas en Maceta
 
 ## Alumna: Joanna Alexandra Carrión Pérez
+## Gmail: joannacarrion14@gmail.com
 
 ### Objetivo
 Desarrollar un sistema integrado para monitorear la temperatura del ambiente y la humedad del suelo de una planta en maceta, proporcionando alertas visuales y auditivas para el cuidado óptimo de la planta.

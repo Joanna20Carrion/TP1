@@ -25,7 +25,7 @@ El sistema medirá la temperatura del ambiente utilizando un sensor **DHT22** y 
 - **Microcontrolador (Núcleo F411RE)**: Gestiona las lecturas de los sensores y controla las salidas (LEDs y buzzer).
 
 ### Diagrama de Bloques
-![Diagrama de Bloques]() 
+![Diagrama de Bloques](/Imagen/Diagrama.png) 
 
 ### Implementación
 
